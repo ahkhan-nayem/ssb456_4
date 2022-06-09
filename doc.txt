@@ -1,0 +1,57 @@
+html template
+<!doctype html>
+html
+	head
+	body
+html
+
+
+html content
+	
+	title
+		h1
+		h2
+		h3
+		h4
+		h5
+		h6
+
+	text
+		p
+
+	image - img
+		internal - file - download
+		external - server - file - link - cdn -	cdn = content delivery network
+
+		file path - 
+		index.html
+		image folder - file
+
+	seo 
+		h1 - h6
+		p
+		img - rename, tag, title, alt
+
+		forward connect - images/filename.ext
+
+		backward connect - <img src="../images/hill.jpg"
+
+
+		free search
+		w h - 
+	link
+
+
+element- start end 
+tag- self closing tag
+attribute- additional data - name="value" - pair
+
+speed optimization
+	content
+		text - fast
+		image - 
+		audio
+		video
+		map
+
+w3c - world wide web consortium
